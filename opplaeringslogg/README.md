@@ -26,4 +26,23 @@ Fra læreplanen har vi noen overordnede kompetansemål, her dokumenterer vi arbe
 
 ## Uke 34, 2022 — første uke i lære 💪🏻
 
-...START HER... 😌
+  Denne uken har jeg jobbet med å få satt opp PC'en min og diverse systemer jeg kommer til å måtte bruke i nær fremtid.
+  - Jeg har koblet opp de enkle ledningene, mus, tastatur og ethernet til laptopen og skjermen min.
+  - å sette opp ethernet tok litt tid siden vi ikke hadde tilgang til nettet eller hkraft brukerene våre. 
+  - WSL og ubuntu
+  
+  
+  Jeg fikk også lagd samseng man:
+
+![20220826_150949](https://user-images.githubusercontent.com/89910775/186911950-d518e355-d011-4ee0-87af-437699445a7b.jpg)
+ 
+  Akuratt nå jobber jeg ikke mot et spesifikt mål eller en leveranse utenom at vi skal komme oss inn og få kjørt mitt-hjem appen. 
+  
+  Denne uken har jeg brukt WSL (windows subsystem for linux), Gopass, litt Go, react-native app tutorial med JSX, javascript og Android studio. Jeg har brukt command     prompt, git, yarn og gpg.
+  
+  
+
+  
+  Jeg har lastet ned og logget meg inn på WSL med ubuntu.
+  Jeg har klonet mitt-hjem repoet og prøvd å følge readme'en. Hadde et par problemer underveis med public keys og å laste dem opp til linux keystore server, gopass, og   GnuPG, men jeg tror problemene snart er løst.
+  
